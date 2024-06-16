@@ -2,7 +2,10 @@
 ![images](https://github.com/dwhite256/Crime-Data-Exploratory-Analysis-w-Python/assets/170587320/27ed9f53-d8de-4349-95ba-160838aed1fa)
 
 ## PROJECT DESCRIPTION
-This project will utilize python and different libraries within python such as pandas to explore and create visualizations from the values of a dataset with different crime statistics. Multiple questions about the data will be answered by using exploratory analysis.
+This project will utilize python and different libraries within python such as pandas to explore and create visualizations for a dataset with different crime statistics. Multiple questions about the data will be answered using exploratory analysis.
+
+## DESCRIPTION OF THE DATA
+The data used in this project contains crime data about type of crime comitted, the description of the crime, the time of the crime, the district the crime took place in, and the date of the crime.
 
 ## NOTEBOOK
 https://www.kaggle.com/code/donaldwhite/crime-data-exploration

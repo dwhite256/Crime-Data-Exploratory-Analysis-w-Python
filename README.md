@@ -7,9 +7,6 @@ This project will utilize python and different libraries within python such as p
 ## DESCRIPTION OF THE DATA
 The data used in this project contains crime data about type of crime comitted, the description of the crime, the time of the crime, the district the crime took place in, and the date of the crime.
 
-## NOTEBOOK
-https://www.kaggle.com/code/donaldwhite/crime-data-exploration
-
 ## DATA ANALYSIS PROCESS
 The appropriate python libraries had to be loading into the Kaggle notebook to perform exploratory analysis on the dataset and create the plots from the results of the python code. The proper encoding had to be incorporated into the code in order to read in the csv file, otherwise the analysis could not be conducted because the default encoding is not compatible. Exploratory analysis was used to provide the data driven answers to different questions regarding the dataset. The code in the kaggle notebook contains descriptive comments to make it easy to follow along and understand the code.
 
@@ -25,3 +22,7 @@ After conducting exploratory analysis on the dataset, the data shows that:
 * The district where the most crimes were comitted on a yearly basis was district B2.
 * Average number of crimes per district by was 6,610.
 * The analysis also shows the months, districts, and years where the number of crimes were below average.
+
+## NOTEBOOK
+https://www.kaggle.com/code/donaldwhite/crime-data-exploration
+

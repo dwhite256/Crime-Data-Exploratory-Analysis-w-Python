@@ -23,6 +23,4 @@ After conducting exploratory analysis on the dataset, the data shows that:
 * Average number of crimes per district by was 6,610.
 * The analysis also shows the months, districts, and years where the number of crimes were below average.
 
-## NOTEBOOK
-https://www.kaggle.com/code/donaldwhite/crime-data-exploration
 
